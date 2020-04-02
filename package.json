@@ -325,7 +325,7 @@
     "json5": "^2.1.0",
     "jsonify": "^0.0.0",
     "killable": "^1.0.1",
-    "kind-of": "^3.2.2",
+    "kind-of": "^6.0.3",
     "jsx-ast-utils": "^2.2.0",
     "kleur": "^3.0.3",
     "lazy-cache": "^1.0.4",
