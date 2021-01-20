@@ -256,7 +256,7 @@
     "ieee754": "^1.1.13",
     "iferr": "^0.1.5",
     "ignore": "^4.0.6",
-    "immer": "^1.10.0",
+    "immer": "^8.0.1",
     "imurmurhash": "^0.1.4",
     "indexes-of": "^1.0.1",
     "inherits": "^2.0.4",
